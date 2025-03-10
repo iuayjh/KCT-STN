@@ -2,7 +2,7 @@
 KCT-STN(KAN-Convolutional-Transformer SpatioTemporal Network) is a spatiotemporal network for driving fatigue detection with self-supervised learning.  
 In this repo you can see the model and a uniform framework for parsing and training the eeg data.
 
-![structure of KCT-STN](images\structure.png)
+![structure of KCT-STN](./images/structure.png)
 
 ## Performance Comparison
 
