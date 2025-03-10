@@ -1,0 +1,14 @@
+data/
+model_saved/
+results/
+
+test.py
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.vscode/
+.idea/
