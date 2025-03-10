@@ -2,7 +2,9 @@ data/
 model_saved/
 results/
 
+util/**/*.png
 test.py
+
 
 __pycache__/
 *.pyc
